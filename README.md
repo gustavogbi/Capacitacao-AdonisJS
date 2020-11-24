@@ -2,6 +2,8 @@
 
 Este projeto é um exemplo de como funcionaria um blog, tendo usuários, posts e comentários como entidades, implementando seus respectivos CRUDs.
 
+![Diagrama do BD](https://github.com/gustavogbi/Capacitacao-AdonisJS/blob/main/Diagrama%20do%20BD.png)
+
 ## Setup
 
 Necessita o NodeJS instalado
